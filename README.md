@@ -1,7 +1,7 @@
 # minnen2020
 Unofficial Pytorch Implementation of Channel-wise Autoregressive Entropy Models for Learned Image Compression(ICIP 2020)
 
-# Despcription
+# Description
 This is UNOFFICIAL Pytorch Implementation of Channel-wise Autoregressive Entropy Models for Learned Image Compression(ICIP 2020).
 The codes are based on CompressAI(https://github.com/InterDigitalInc/CompressAI/tree/master/compressai). 
 
